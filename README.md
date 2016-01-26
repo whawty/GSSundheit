@@ -1,4 +1,4 @@
-# GOATSSE: Generic Organisation-wide Authentication Security SErvice
+# Generic Organisation-wide Authentication Security Service
 
 ## What's that?
 
